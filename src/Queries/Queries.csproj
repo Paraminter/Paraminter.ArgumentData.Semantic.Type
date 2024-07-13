@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Arguments.Semantic.Type.Queries</AssemblyName>
+
+        <RootNamespace>Paraminter.Arguments.Semantic.Type.Queries</RootNamespace>
+
+        <PackageId>Paraminter.Arguments.Semantic.Type.Queries</PackageId>
+        <Description>Defines queries related to Paraminter semantic type argument data.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.CodeAnalysis.Common" />
+
+        <PackageReference Include="Paraminter.Queries.Core" />
+    </ItemGroup>
+
+</Project>
