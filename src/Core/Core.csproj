@@ -4,7 +4,7 @@
         <AssemblyName>Paraminter.Arguments.Semantic.Type.Core</AssemblyName>
 
         <PackageId>Paraminter.Arguments.Semantic.Type.Core</PackageId>
-        <Description>Defines the core components of Paraminter semantic type argument data.</Description>
+        <Description>Defines Paraminter semantic type argument data.</Description>
     </PropertyGroup>
 
     <ItemGroup>
