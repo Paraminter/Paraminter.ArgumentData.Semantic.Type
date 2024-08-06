@@ -2,8 +2,11 @@
 
 using Microsoft.CodeAnalysis;
 
+using Paraminter.Associators.Models;
+
 /// <summary>Represents semantic data about a type argument.</summary>
 public interface ISemanticTypeArgumentData
+    : IArgumentData
 {
     /// <summary>The symbol associated with the type argument.</summary>
     public abstract ITypeSymbol Symbol { get; }
