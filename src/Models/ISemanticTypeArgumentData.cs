@@ -2,7 +2,7 @@
 
 using Microsoft.CodeAnalysis;
 
-using Paraminter.Associators.Models;
+using Paraminter.Arguments.Models;
 
 /// <summary>Represents semantic data about a type argument.</summary>
 public interface ISemanticTypeArgumentData
